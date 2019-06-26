@@ -20,7 +20,7 @@ const App = () =>
         
         <header>
             <nav>
-                <NavLink to="/">Home</NavLink>
+                <NavLink to="/" exact>Home</NavLink>
                 <NavLink to="/users">Users</NavLink>
                 <NavLink to="/courses">Courses</NavLink>
             </nav>

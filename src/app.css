@@ -17,6 +17,10 @@ a:hover {
     background-color: pink;
 }
 
+a.active {
+    background-color: rgb(212, 47, 75);
+}
+
 h1 {
     color:red;
     text-shadow: 1px 1px 3px darkred;
