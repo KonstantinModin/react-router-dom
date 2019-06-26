@@ -1,0 +1,24 @@
+ol {
+    /* display: block; */
+    margin-bottom: 40px;
+    font-size: 80%;
+}
+
+a {
+    font-size: 200%;
+    border: 1px solid darkred;
+    padding: 10px 20px;
+    margin: 10px 20px;
+    text-decoration: none;
+    box-shadow: 2px 2px 5px rgb(117, 14, 14);
+}
+
+a:hover {
+    background-color: pink;
+}
+
+h1 {
+    color:red;
+    text-shadow: 1px 1px 3px darkred;
+    padding: 20px 20px;
+}

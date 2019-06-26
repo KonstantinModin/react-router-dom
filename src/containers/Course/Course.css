@@ -1,0 +1,7 @@
+.FullCourse {    
+    border: 1px solid rgb(255, 0, 0);
+    box-shadow: 0px 0px 3px rgb(131, 5, 5);
+    padding: 10px;
+    margin: 10px;    
+    flex-basis: 100%;    
+}
